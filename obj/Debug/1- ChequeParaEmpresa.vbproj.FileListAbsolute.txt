@@ -1,0 +1,10 @@
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\1- ChequeParaEmpresa.vbprojResolveAssemblyReference.cache
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\Cheque_de_em.Resources.resources
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\1- ChequeParaEmpresa.vbproj.GenerateResource.Cache
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\bin\Debug\Cheque de em.exe.config
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\bin\Debug\Cheque de em.exe
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\bin\Debug\Cheque de em.pdb
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\bin\Debug\Cheque de em.xml
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\Cheque de em.exe
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\Cheque de em.xml
+C:\Users\javic\OneDrive\Escritorio\Papa\Cervantes\1 cuatrimestre\Programacion I\Proyectos\1°Parcial Programacion 1\Cheque de em\obj\Debug\Cheque de em.pdb
